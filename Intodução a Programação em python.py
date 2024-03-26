@@ -3,7 +3,7 @@ def exibir_menu():
     print("Bem-vindo ao Programa de Introdução à Programação em Python")
     print("1. Tutorial")
     print("2. Exercícios Práticos")
-    print("3. Projeto Simples")
+    print("3. Projeto de Calculadora Simples")
     print("4. Sair")
 
 # Função para executar o tutorial
