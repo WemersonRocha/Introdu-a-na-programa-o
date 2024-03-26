@@ -30,7 +30,6 @@ def executar_exercicios():
     num2 = int(input("Digite o segundo número: "))
     resultado = num1 * num2
     print("Resultado da multiplicação:", resultado)
-    print("3. Escreva um programa para imprimir os números primos até um determinado limite.")
 
 # Função para executar o projeto simples
 def executar_projeto():
